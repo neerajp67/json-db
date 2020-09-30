@@ -2,37 +2,37 @@
   "restaurants": [
     {
       "name": "Resto A",
-      "email": "a@resto.com",
+      "type": "Resto",
       "address": "Street A",
       "id": 1
     },
     {
       "name": "Resto B",
-      "email": "b@resto.com",
+      "type": "Resto",
       "address": "Street B",
       "id": 2
     },
     {
       "name": "Resto C",
-      "email": "c@resto.com",
+      "type": "Resto",
       "address": "Street C",
       "id": 3
     },
     {
       "name": "Resto D",
-      "email": "d@resto.com",
+      "type": "Resto",
       "address": "Street D",
       "id": 4
     },
     {
       "name": "Resto E",
-      "email": "e@resto.com",
+      "type": "Resto",
       "address": "Street E",
       "id": 5
     },
     {
       "name": "Resto F",
-      "email": "f@resto.com",
+      "type": "Resto",
       "address": "Street F",
       "id": 6
     }
